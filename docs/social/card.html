@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;800;900&display=swap" rel="stylesheet">
+<style>
+/* Hallmark · component: social card · genre: modern-minimal · theme: custom (Samsung-blue anchor)
+ * pre-emit critique: P4 H5 E4 S5 R4 V4 */
+:root{--paper:oklch(98% 0.005 250);--ink:oklch(18% 0.02 250);--muted:oklch(45% 0.02 250);--blue:oklch(45% 0.17 258);--blue-deep:oklch(30% 0.12 258);--no:oklch(52% 0.2 25);--yes:oklch(55% 0.14 150);--rule:oklch(85% 0.01 250);--font:Heebo,"Arial Hebrew",Arial,sans-serif}
+*{box-sizing:border-box;margin:0}
+html,body{width:1080px;height:1350px;overflow:hidden;background:var(--paper);font-family:var(--font);color:var(--ink)}
+.card{position:relative;width:1080px;height:1350px;padding:70px 84px 0;display:flex;flex-direction:column}
+.kicker{font-size:28px;font-weight:500;color:var(--muted);letter-spacing:.01em}
+h1{font-size:96px;line-height:1.02;font-weight:900;margin-top:22px;letter-spacing:-.01em}
+h1 .ok{color:var(--blue)}
+h1 .no{color:var(--no)}
+.rows{margin-top:36px;border-top:3px solid var(--ink)}
+.row{display:grid;grid-template-columns:1fr 150px;align-items:center;padding:20px 0;border-bottom:2px solid var(--rule);font-size:34px;font-weight:500}
+.row .f{line-height:1.25}
+.row .f small{display:block;font-size:24px;color:var(--muted);font-weight:400;margin-top:6px}
+.badge{justify-self:end;font-size:34px;font-weight:800;padding:10px 24px;border-radius:999px;color:#fff}
+.badge.yes{background:var(--yes)}
+.badge.no{background:var(--no)}
+.src{margin-top:20px;font-size:24px;color:var(--muted)}
+.ltr{direction:ltr;unicode-bidi:isolate;display:inline-block}
+.cta{position:absolute;left:84px;right:84px;bottom:112px;display:flex;align-items:center;justify-content:space-between;gap:30px;background:var(--blue);color:#fff;border-radius:22px;padding:32px 44px}
+.cta .t{font-size:38px;font-weight:800;line-height:1.15}
+.cta .u{font-size:30px;font-weight:500;opacity:.92;direction:ltr;unicode-bidi:isolate;white-space:nowrap}
+.foot{position:absolute;left:84px;right:84px;bottom:56px;font-size:24px;color:var(--muted);display:flex;justify-content:space-between}
+/* variant B: dark */
+[data-v="b"]{--paper:oklch(16% 0.03 258);--ink:oklch(97% 0.005 250);--muted:oklch(72% 0.02 250);--rule:oklch(30% 0.03 258);--blue:oklch(70% 0.14 240);--no:oklch(68% 0.19 25);--yes:oklch(72% 0.15 150)}
+[data-v="b"] .cta{background:oklch(97% 0.005 250);color:oklch(18% 0.02 250)}
+[data-v="b"] .rows{border-top-color:var(--ink)}
+</style>
+</head>
+<body data-v="a">
+<div class="card">
+  <div class="kicker">בעלי Galaxy דוברי עברית, שימו לב</div>
+  <h1>ל-<span class="ok ltr">Galaxy AI</span> יש 22 שפות.<br><span class="no">עברית לא ביניהן.</span></h1>
+
+  <div class="rows">
+    <div class="row"><div class="f">Writing Assist · Photo Assist · Creative Studio<small>41 שפות</small></div><span class="badge yes">יש עברית</span></div>
+    <div class="row"><div class="f">Live Translate · Interpreter<small>תרגום שיחות ותרגום פנים אל פנים · 22 שפות</small></div><span class="badge no">אין</span></div>
+    <div class="row"><div class="f">Note Assist · Transcript Assist<small>סיכום פתקים ותמלול הקלטות · 22 שפות</small></div><span class="badge no">אין</span></div>
+  </div>
+  <div class="src">המקור: העמוד הרשמי של Galaxy AI באתר סמסונג ישראל, יולי 2026</div>
+
+  <div class="cta">
+    <div class="t">3 דקות. סקר + בקשה אישית לסמסונג.<br>מבקשים מפת דרכים ובטא לעברית.</div>
+    <div class="u">gvago.github.io/galaxy-ai-hebrew</div>
+  </div>
+  <div class="foot"><span>קמפיין עצמאי של בעלי מכשירים. לא סמסונג.</span><span class="ltr">HE-GALAXY-AI-2026</span></div>
+</div>
+</body>
+</html>
