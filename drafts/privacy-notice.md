@@ -6,7 +6,7 @@ Plain language. Covers exactly what plan §13 requires: purpose, fields, access,
 
 ## English
 
-**Who we are.** "Galaxy AI בעברית" (campaign ref. HE-GALAXY-AI-2026) is a volunteer, non-commercial campaign run by `[CONTROLLER_NAME]`, `[CONTROLLER_EMAIL]`. We are not Samsung and do not represent Samsung or any partner organization.
+**Who we are.** "Galaxy AI בעברית" (campaign ref. HE-GALAXY-AI-2026) is a volunteer, non-commercial campaign run by Guy Vago, guy@vago.co.il. We are not Samsung and do not represent Samsung or any partner organization.
 
 **Why we collect data.** To document how many Hebrew-speaking Galaxy owners want Hebrew in Live Translate, Interpreter, Note Assist and Transcript Assist; to remove duplicate responses; to contact people who separately asked to hear about an official beta; and to publish **aggregate** statistics.
 
@@ -23,7 +23,7 @@ We never ask for: IMEI, serial number, receipt, ID document, Samsung account pas
 
 **Beta consent is limited.** Ticking "contact me about a beta" means we may pass your email to Samsung **only if** an official opt-in beta opens and **only under written terms**. It is not permission to train AI models on anything you provide. We will not send Samsung or anyone else audio or personal data without such terms.
 
-**Your rights.** At any time, email `[CONTROLLER_EMAIL]` to: see what we hold about you, correct it, withdraw any consent, or delete everything. We act within 14 days. Withdrawal does not affect aggregates already published.
+**Your rights.** At any time, email guy@vago.co.il to: see what we hold about you, correct it, withdraw any consent, or delete everything. We act within 14 days. Withdrawal does not affect aggregates already published.
 
 **Changes.** We date every change to this notice and list it in the campaign's public changelog.
 
@@ -35,7 +35,7 @@ Version 0.1, `[PUBLISH_DATE]`
 
 ## עברית
 
-**מי אנחנו.** "Galaxy AI בעברית" (מזהה קמפיין HE-GALAXY-AI-2026) הוא קמפיין התנדבותי, לא-מסחרי, שמנהל/ת `[CONTROLLER_NAME]`, `[CONTROLLER_EMAIL]`. אנחנו לא סמסונג, ואנחנו לא מייצגים את סמסונג או שום ארגון שותף.
+**מי אנחנו.** "Galaxy AI בעברית" (מזהה קמפיין HE-GALAXY-AI-2026) הוא קמפיין התנדבותי, לא-מסחרי, שמנהל/ת Guy Vago, guy@vago.co.il. אנחנו לא סמסונג, ואנחנו לא מייצגים את סמסונג או שום ארגון שותף.
 
 **למה אנחנו אוספים מידע.** כדי לתעד כמה בעלי מכשירי Galaxy דוברי עברית רוצים עברית ב-Live Translate, ב-Interpreter, ב-Note Assist וב-Transcript Assist; כדי להסיר תשובות כפולות; כדי לפנות למי שביקשו בנפרד לשמוע על בטא רשמית; וכדי לפרסם נתונים **מצרפיים** בלבד.
 
@@ -52,7 +52,7 @@ Version 0.1, `[PUBLISH_DATE]`
 
 **הסכמה לבטא היא מוגבלת.** סימון "פנו אליי בנוגע לבטא" פירושו שנוכל להעביר את האימייל שלכם לסמסונג **רק אם** תיפתח בטא רשמית מבוססת opt-in, **ורק** לפי תנאים כתובים. זו לא הרשאה לאמן מודלי AI על שום דבר שמסרתם. לא נעביר לסמסונג או לאף גורם אחר הקלטות או מידע אישי בלי תנאים כאלה.
 
-**הזכויות שלכם.** בכל עת, שלחו מייל ל-`[CONTROLLER_EMAIL]` כדי: לראות מה שמור עליכם, לתקן, לבטל כל הסכמה, או למחוק הכול. נטפל תוך 14 יום. ביטול לא משפיע על נתונים מצרפיים שכבר פורסמו.
+**הזכויות שלכם.** בכל עת, שלחו מייל ל-guy@vago.co.il כדי: לראות מה שמור עליכם, לתקן, לבטל כל הסכמה, או למחוק הכול. נטפל תוך 14 יום. ביטול לא משפיע על נתונים מצרפיים שכבר פורסמו.
 
 **שינויים.** כל שינוי בהודעה הזו מתוארך ומופיע ביומן השינויים הציבורי של הקמפיין.
 
@@ -65,4 +65,4 @@ Version 0.1, `[PUBLISH_DATE]`
 
 ## Open values
 
-`[CONTROLLER_NAME]`, `[CONTROLLER_EMAIL]` (dedicated campaign address, not a personal one), `[STORAGE]`, `[DELETION_DATE]`, `[PUBLISH_DATE]`. Legal review: who, by when (before Week 4 pilot).
+Guy Vago, guy@vago.co.il (dedicated campaign address, not a personal one), `[STORAGE]`, `[DELETION_DATE]`, `[PUBLISH_DATE]`. Legal review: who, by when (before Week 4 pilot).
