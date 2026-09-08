@@ -21,4 +21,5 @@ Append-only. Dated. Rejected options stay in.
 - **D11** (2026-09-08) Landing page on GitHub Pages at https://gvago.github.io/galaxy-ai-hebrew/ (HE) and /en.html. Privacy notice and feedback guide live there as anchors; the form links to them. Contact address: guy@vago.co.il (Guy's choice; personal, not a dedicated campaign address).
 - **D12** (2026-09-08) First distribution channel: Facebook group "העולם של סמסונג בישראל" (16K members, public). Rules 5 and 6 require admin approval before posting external links or a site. Sequence: DM admin, wait for yes, then post. Rejected: posting directly and asking forgiveness; a ban from the largest Israeli Samsung group is unrecoverable.
 - **D13** (2026-09-08) Weeks 1-3 compressed into one day (all artifacts). Week 4 pilot pool = the Facebook group plus personal network, gated on admin approval, not the calendar. Gate A is checked on data.
+- **D14** (2026-09-08) Facebook group admin (אבשלום אביב) approved posting the survey and guide link in "העולם של סמסונג בישראל" (DM: "כן, בכיף"). Pilot opens there. Group rule 5 still applies: link must carry descriptive text; bump at most once per 24h.
 
