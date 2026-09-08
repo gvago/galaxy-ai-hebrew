@@ -1,5 +1,7 @@
 # Supporter survey: draft v0.1 (not published)
 
+Built as a Google Form by `tools/build-form.gs` (form ID `1HUner9aL28jrC36-kTU-wDyiIoXqGR9G7Wbys0pnpCU`, owner vago@vago.co.il, closed to responses until the pilot). Edit this file, then re-run the script; it rebuilds the questions in place and keeps the linked response sheet.
+
 Target tool: Google Forms (Lean tier, free, exports to Sheets). One form, two language versions or a bilingual form with EN under HE. Every required field is marked `*`. Everything else is optional. Adults only.
 
 Reporting categories this form must be able to produce (plan §9):

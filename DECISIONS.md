@@ -15,4 +15,5 @@ Append-only. Dated. Rejected options stay in.
 - ~~Device~~ → **D6** (2026-09-08) Recording device: Galaxy S24 Ultra (Guy's). Second device optional.
 - ~~Repo~~ → **D7** (2026-09-08) Public OSS repo under `github.com/gvago`. Raw snapshots, PII, uncut media gitignored. Rejected: private repo; the campaign's credibility rests on auditable claims.
 - Repo name: `galaxy-ai-hebrew`? (pending)
-- Survey tool: Google Forms single opt-in ("unique email") vs. tool with confirmation ("confirmed"). See `drafts/supporter-survey.md` open values.
+- ~~Survey tool~~ → **D8** (2026-09-08) Google Forms under vago@vago.co.il, built by `tools/build-form.gs` (Apps Script, idempotent rebuild). Single opt-in; the KPI is reported as "unique emails", not "confirmed". Form stays closed to responses until the Week 4 pilot. Rejected: Tally/Formbricks for double opt-in, not worth a second tool at Lean tier.
+- **D9** (2026-09-08) Form labels are English-first with Hebrew second and every Hebrew segment wrapped in RLI/PDI bidi isolates. Reason: Google Forms has no per-form RTL; Hebrew-first titles right-align the text while leaving the checkbox on the left. Verified in the live respondent view.

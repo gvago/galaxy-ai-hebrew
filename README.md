@@ -14,6 +14,7 @@ evidence/
   snapshots/<date>/                        raw HTML + stripped text per source
 trackers/                                  (private) cases, partners, contacts; templates only in git
 drafts/                                    survey, privacy notice, feedback guide, one-pager, recording script
+tools/build-form.gs                        Apps Script that builds the Google Form from the survey draft
 media/raw/                                 (gitignored) uncut device recordings
 public/                                    landing page, FAQ, feedback guide (when built)
 ```
