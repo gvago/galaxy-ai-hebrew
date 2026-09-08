@@ -19,6 +19,11 @@ media/raw/                                 (gitignored) uncut device recordings
 public/                                    landing page, FAQ, feedback guide (when built)
 ```
 
+## Live
+
+- Site: https://gvago.github.io/galaxy-ai-hebrew/ (HE), https://gvago.github.io/galaxy-ai-hebrew/en.html (EN)
+- Survey: https://docs.google.com/forms/d/e/1FAIpQLSexBl4Zqlekk7OboavHR5NT0N_XYD0Qi7pBk_a1gjPKCfKp6g/viewform
+
 ## Status
 
 Solo campaign (Guy Vago) until public launch. Week 1 of 12 (started 2026-09-08). Contributions welcome once the repo is public. Start with `evidence/CLAIMS_LEDGER.md`: every Confirmed row still needs a second reviewer.

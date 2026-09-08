@@ -1,3 +1,4 @@
+// FROZEN 2026-09-08 (DECISIONS D10): the live form was edited by hand and is canonical. Do NOT re-run; buildForm() deletes every item.
 // Builds the HE-GALAXY-AI-2026 supporter form from drafts/supporter-survey.md.
 // Run once in Apps Script (script.google.com) under the campaign Google account.
 // Creates the form + a linked responses spreadsheet, closed to responses until the pilot.
