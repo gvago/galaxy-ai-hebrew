@@ -1,0 +1,12 @@
+# Raw third-party page copies stay local (copyright + size). Public dated evidence = Wayback links in SOURCE_REGISTER.md
+evidence/snapshots/
+
+# Anything identifiable. Trackers in git are empty templates only.
+private/
+*.csv
+*.xlsx
+
+# Uncut device recordings
+media/raw/
+
+.DS_Store
