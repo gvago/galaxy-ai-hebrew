@@ -24,4 +24,5 @@ Append-only. Dated. Rejected options stay in.
 - **D14** (2026-09-08) Facebook group admin (אבשלום אביב) approved posting the survey and guide link in "העולם של סמסונג בישראל" (DM: "כן, בכיף"). Pilot opens there. Group rule 5 still applies: link must carry descriptive text; bump at most once per 24h.
 - **D15** (2026-09-08) Launch post published in the Facebook group with a GPT-generated image (Guy's choice over the HTML card; card stays as the site OG image). Pilot is live. First 4 responses within the hour.
 - **D16** (2026-09-08) Sheet export URL returns empty to the browser session; the Forms "Responses" tab is the read path for aggregates. Individual emails visible there are NOT copied anywhere.
+- **D17** (2026-09-09) Case #1 sent by Guy via the Samsung IL email form. Response level **R1** (generic acknowledgment, next-business-day promise, no number). Guide updated: email route users must ask for a case number in their reply. Members app remains the preferred route; still unverified (U2).
 

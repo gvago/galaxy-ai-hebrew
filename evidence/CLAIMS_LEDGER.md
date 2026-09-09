@@ -22,6 +22,7 @@ Status values: Confirmed / Uncertain / Do Not Use.
 | C12 | ivrit.ai **datasets** use a custom license: **CC BY 4.0 with restrictions**: use only for (a) training AI models or (b) academic research (v2, 1 Oct 2024; v1 training-only, 30 Jun 2023); no deep-fakes; export-control clause. Commercial training is explicitly allowed. | https://www.ivrit.ai/en/the-license/ | `ivrit-license.txt` | 2026-09-08 | Hermes (needs 2nd) |
 | C13 | **DictaLM 3.0** open-weight models on HF are **Apache-2.0** for the 1.7B and 24B families (Base/Instruct/Thinking + quantized). The **Nemotron-12B** variants are `license: other` (inherit NVIDIA terms). | https://huggingface.co/dicta-il (API) | HF API | 2026-09-08 | Hermes (needs 2nd) |
 | C14 | Microsoft Azure Speech supports **he-IL Hebrew (Israel)**: speech-to-text (audio + human-labeled transcript customization), and neural TTS voices **he-IL-HilaNeural** (F) and **he-IL-AvriNeural** (M). Commercial cloud service. | https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support | `ms-speech-langs.txt` | 2026-09-08 | Hermes (needs 2nd) |
+| C15 | Samsung Israel's email form (Sprinklr webform, requires phone number) returns an automatic acknowledgment naming **Samsung Electronics Israel customer service**, promising email contact **within the next business day**, and offering WhatsApp **058-4006963**. No case/reference number is issued at receipt. | Guy's own submission, 2026-09-09 (case #1) | private/ | 2026-09-09 | Guy |
 
 ## Uncertain (do not publish until resolved)
 
