@@ -22,4 +22,6 @@ Append-only. Dated. Rejected options stay in.
 - **D12** (2026-09-08) First distribution channel: Facebook group "העולם של סמסונג בישראל" (16K members, public). Rules 5 and 6 require admin approval before posting external links or a site. Sequence: DM admin, wait for yes, then post. Rejected: posting directly and asking forgiveness; a ban from the largest Israeli Samsung group is unrecoverable.
 - **D13** (2026-09-08) Weeks 1-3 compressed into one day (all artifacts). Week 4 pilot pool = the Facebook group plus personal network, gated on admin approval, not the calendar. Gate A is checked on data.
 - **D14** (2026-09-08) Facebook group admin (אבשלום אביב) approved posting the survey and guide link in "העולם של סמסונג בישראל" (DM: "כן, בכיף"). Pilot opens there. Group rule 5 still applies: link must carry descriptive text; bump at most once per 24h.
+- **D15** (2026-09-08) Launch post published in the Facebook group with a GPT-generated image (Guy's choice over the HTML card; card stays as the site OG image). Pilot is live. First 4 responses within the hour.
+- **D16** (2026-09-08) Sheet export URL returns empty to the browser session; the Forms "Responses" tab is the read path for aggregates. Individual emails visible there are NOT copied anywhere.
 
