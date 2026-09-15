@@ -31,3 +31,4 @@ Snapshot dir: `evidence/snapshots/2026-09-08/` holding `<key>.html` (raw), `<key
 
 - https://github.com/ivrit-ai/ivrit.ai (covered by gh api)
 - Partner sites (§11): ivrit.ai home, HUJI SLP lab, IAHLT, ITA, Hebrew Academy, Access Israel, Bekol. Fetch in Week 2 when drafting partner one-pager.
+| S-ynet-s26u | https://www.ynet.co.il/digital/reviews/article/bjr11rt8cbg | ynet, S26 Ultra review, Rafael Kahan, 2026-03-17 | 2026-09-15 | 200 | 72417ecd46fd3f1c | `evidence/snapshots/2026-09-15/ynet-s26u-review-kahan.{html,txt}` |
